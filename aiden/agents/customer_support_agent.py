@@ -8,12 +8,12 @@ class CustomerSupportAgent:
         self.experience = 0
 
     def analyze_input(self, input_data):
-        # Use NLP and NLU to understand the customer's problem
+        # Actual NLP and NLU code to understand the customer's problem
         problem = actual_nlp_nlu_process(input_data)
         return problem
     
     def solve_problem(self, problem):
-        # Use ML and DL to find a solution to the problem
+        # Actual ML and DL code to find a solution to the problem
         solution = actual_ml_dl_process(problem)
         return solution
     
