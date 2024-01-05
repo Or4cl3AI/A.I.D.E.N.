@@ -1,30 +1,34 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/A.I.D.E.N. is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/A.I.D.E.N. is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/A.I.D.E.N.](https://github.com/Or4cl3AI/A.I.D.E.N.)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|11/24/23 <br/>Report generated|
+|8<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -98,8 +102,8 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[nltk](https://pypi.org/nltk)|N/A|11/06/23|sweep-ai[bot] |Apache-2.0|N/A|
-|[sklearn](https://pypi.org/sklearn)|N/A|11/06/23|sweep-ai[bot] |Other|N/A|
+|[nltk](https://pypi.org/project/nltk)|N/A|11/06/23|sweep-ai[bot] |Apache-2.0|N/A|
+|[sklearn](https://pypi.org/project/sklearn)|N/A|11/06/23|sweep-ai[bot] |Other|N/A|
 
 <br/>
 <div align='center'>
